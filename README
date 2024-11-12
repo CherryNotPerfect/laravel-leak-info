@@ -1,0 +1,8 @@
+Usage:
+
+pip install requests beautifulsoup4
+python3 exploit.py
+[!] Usage : python3 exploit.py <IP_ADDRESS>:<PORT>
+[!] Ex    : python3 exploit.py https://127.0.0.1:443
+
+This script exploits a Laravel endpoint to obtain debug information.
